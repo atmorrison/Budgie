@@ -2,7 +2,7 @@ import React from 'react';
 import Header from './AppComponents/Header';
 import Body from './AppComponents/Body';
 
-class App extends React.Component {
+export default class App extends React.Component {
 
     render() {
         return(

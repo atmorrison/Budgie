@@ -1,6 +1,6 @@
 import React from 'react';
 
-class Body extends React.Component {
+export default class Body extends React.Component {
 
     render() {
         return(null);
